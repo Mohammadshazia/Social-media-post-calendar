@@ -1,3 +1,4 @@
+
 # DIGITAL MARKETING
 
 **COMPANY**:CODTECH IT SOLUTIONS
@@ -9,3 +10,6 @@
 **DURATION**: 6 weeks
 
 **MENTOR**:NEELA SANTOSH
+
+![1000004283](https://github.com/user-attachments/assets/320b95d1-0f06-4786-a8ba-4af0efb48676)
+
