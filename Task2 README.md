@@ -1,6 +1,5 @@
-![1000007214](https://github.com/user-attachments/assets/7f9c10cf-ebbf-4f0f-956b-cffad37d5cd4)
-![1000007213](https://github.com/user-attachments/assets/7918fc0b-7db3-453b-b598-f5bc0823ae68)
-![1000007212](https://github.com/user-attachments/assets/f0f4fcfe-1b0d-4979-bd90-21c7edf995f0)
+
+
 **COMPANY**:CODTECH IT SOLUTIONS
 
 **NAME**:MOHAMMAD SHAZIA
@@ -10,3 +9,9 @@
 **DURATION**: 6 weeks
 
 **MENTOR**:NEELA SANTOSH
+
+![1000007217](https://github.com/user-attachments/assets/82deda84-96cf-4c75-9d02-ccf4e0961922)
+![1000007216](https://github.com/user-attachments/assets/e5bcbc21-e303-4830-a0eb-7af096803192)
+![1000007215](https://github.com/user-attachments/assets/1d04057b-6283-480f-b272-88a326e18f23)
+
+
